@@ -20,6 +20,6 @@ Robin Lan
 
 # And...
 
-If you appreciate my hard work, please give me a star. Thank you.
+If you appreciate my hard work, please give me a star.
 If you encounter any issues, please feel free to contact me with any questions or concerns.
 Thank you for choosing my program and I hope you enjoy this time-saving and enjoyable experience.
