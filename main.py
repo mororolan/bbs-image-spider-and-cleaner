@@ -17,7 +17,7 @@ image = []
 if __name__ == '__main__':
 
     # step 1
-
+    # parameters: headers, url, start_page, end_page
     save_file = fetch_unique_image_links(headers, url, 707, 708)
     print("Finished step 1")
 

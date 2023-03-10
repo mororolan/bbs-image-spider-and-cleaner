@@ -1,10 +1,9 @@
 This is a spider & data cleaning streamlined solution.
 
-If you appreciate my hard work, please show your support by leaving a star
-If you encounter any issues, please feel free to contact me with any questions or concerns.
 
-
-If you want to use my scripts, you MUST EDIT YOUR OWN STEP #1.
+# Description
+Notice:
+- If you want to use this project, you MUST EDIT YOUR OWN STEP #1 (to fetch the specific website).
 
 It contains 3 steps:
 - Step 1: fetch(crawl) image links and drop the duplicates.
@@ -16,4 +15,11 @@ It contains 3 steps:
   - discard the smaller similar images.
 
 
+# Collaborator
+Robin Lan
+
+# And...
+
+If you appreciate my hard work, please give me a star. Thank you.
+If you encounter any issues, please feel free to contact me with any questions or concerns.
 Thank you for choosing my program and I hope you enjoy this time-saving and enjoyable experience.
