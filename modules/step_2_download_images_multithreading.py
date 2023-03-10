@@ -3,6 +3,7 @@
 # @Author  : Robin Lan
 # @Time    : 3/2/23 13:10
 # @Software: PyCharm
+# @Description: This script is used to download images from a csv file.
 
 import urllib
 import pandas as pd

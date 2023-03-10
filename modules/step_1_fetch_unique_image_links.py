@@ -3,6 +3,7 @@
 # @Author  : Robin Lan
 # @Time    : 2/2/23
 # @Software: PyCharm
+# @Description: This script is used to fetch unique image links from a website.
 
 import os
 
@@ -17,6 +18,7 @@ def fetch_unique_image_links(headers, url, start_page, end_page):
     image = []
     time_cnt = 0
     save_name = f"./data/image_links{start_page}-{end_page}.csv"
+
 
     for i in range(start_page, end_page + 1):
         new_url = url + '&page=' + str(i)

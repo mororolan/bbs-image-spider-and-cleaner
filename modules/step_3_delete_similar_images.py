@@ -3,6 +3,7 @@
 # @Author  : Robin Lan
 # @Time    : 4/2/23 00:53
 # @Software: PyCharm
+# @Description: This script is used to delete similar images.
 
 import os
 import hashlib
